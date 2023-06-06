@@ -1,7 +1,7 @@
 body{
     font-family: Roboto;
-    background: -webkit-linear-gradient(to left, #c578c1, #ff94df);
-    background: linear-gradient(to left, #c578c1, #ff94df);
+    background: -webkit-linear-gradient(to left, #7dcdcf, #abf3ef);
+    background: linear-gradient(to left, #7dcdcf, #abf3ef);
 }
 #container{
     margin: 0 auto;
@@ -11,14 +11,15 @@ body{
 }
 #convert{
     margin-top: 2%;
-    background-color: #000000;
+    background-color: #ffffff;
+    
 }
 #clear{
     margin-top: 2%;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 #convert:hover{
-    background-color: #000000;
+    background-color: #ffffff;
 }
 h1{
     font-family: sans-serif;
@@ -47,7 +48,7 @@ input{
 button{
     padding: 10px;
     font-size: 1.2em;
-    color: #ffffff;
+    color: #000000;
 }
 
 footer{
